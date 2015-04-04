@@ -1,5 +1,5 @@
 #!/bin/bash
-# Vagrant machine setup script
+# Vagrant - VM setup script
 # I wrote this so that every time my data gets wiped off the machine,
 # I can easily run this script and be ready to do things that matter
 # and save a lot of time.
