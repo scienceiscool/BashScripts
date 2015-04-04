@@ -6,6 +6,9 @@
 # I can easily run this script and be ready to do things that matter
 # and save a lot of time.
 
+# References:
+#   - https://github.com/joyent/node/wiki/installing-node.js-via-package-manager
+
 # install git
 sudo apt-get install git
 
